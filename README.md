@@ -20,10 +20,10 @@ Shopping Assist is built to enhance your online purchase experience by making yo
 
 ## Contributors and Reviewers
 <b>If you wish to be a code contributor for Shopping Assist:</b>
-- Clone [repo](https://github.com/Onelinerhub/onelinerhub) and [create pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) (see [code format guidelines](/how-to-contribute.md)) of your new/updated codes. Feel free to add/update any tech code piece you find useful.
-- Create [issues](https://github.com/Onelinerhub/onelinerhub/issues) for UI/code updates.
-- Join our organization here: https://github.com/Onelinerhub.
-- Donate (contact me for details: joe@onelinerhub.com).
+- Clone [repo](https://github.com/Shopping-Assist/Shopping-Assist) and [create pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) (see [code format guidelines](/how-to-contribute.md)) of your new/updated codes. Feel free to add/update any tech code piece you find useful.
+- Create [issues]() for UI/code updates.
+- Join our organization here: https://github.com/Shopping-Assist.
+- Donate (contact me for details: ).
 
 <b>If you wish to be a product, content and code review for Shopping Assist:</b>
 - Navigate to (https://shopping-assist.github.io/Shopping-Assist/contribute/reviewer-application/apply.html)
